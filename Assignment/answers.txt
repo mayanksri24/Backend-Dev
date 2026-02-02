@@ -1,0 +1,19 @@
+Answer-1: 
+Synchronous:- Program will wait until the file operation is finished, then it will move to the next line 
+Asynchronous:- Program does not wait other works will happen in background and when it finishes it return via callback function
+Answer-2: 
+When our file is too large we use Streams to read the file in small chunks, so memory stay safe
+Answer-3:- 
+It use to read file as a human readable text, not a binary data
+Answer4:- 
+ENOENT: says file not exist 
+EACCESS: Permission Denied 
+EEXIST: File already exists
+ Answer5:- 
+Delete directory using cmd: fs.rmdirSync('folderName', {recursive:true})
+ Answer6:- 
+Taking output of one stream and sending it directly ans input to another stream
+ Answer7:- 
+Prevent program crash, Better user experience, System stability
+Anser8:- 
+writeFile replaces the old content with the new content while appendFile used to add the data in existing file
