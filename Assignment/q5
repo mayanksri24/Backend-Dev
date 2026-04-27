@@ -1,0 +1,5 @@
+Embedding vs Referencing
+Embedding → store data inside same document
+Fast, good for small data
+Referencing → store in separate collections
+Good for large or reusable data

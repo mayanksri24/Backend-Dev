@@ -1,0 +1,6 @@
+Purpose of middleware in Mongoose
+Middleware runs before or after operations
+Used for:
+Validation
+Logging
+Password hashing

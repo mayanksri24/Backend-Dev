@@ -1,0 +1,5 @@
+Pagination in Mongoose
+Used to fetch data in small parts
+Done using:
+skip()
+limit()

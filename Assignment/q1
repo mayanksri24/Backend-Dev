@@ -1,0 +1,6 @@
+Advantages of Mongoose over native MongoDB driver
+Provides schema-based structure
+Has built-in validation
+Supports middleware (hooks)
+Easy to manage relationships using populate()
+Makes code clean and simple
